@@ -10,4 +10,7 @@ This project fine-tunes a DistilBERT model on a healthcare dataset for text clas
 - `data/`: Contains the healthcare dataset (CSV format).
 - `docs/`: Additional documentation and analysis results.
 
+## Fine-Tuning Analysis
+
+For a detailed analysis of the fine-tuning process and results, see the [Fine-Tuning Analysis](docs/Fine_Tuning_Analysis.md) document.
 
